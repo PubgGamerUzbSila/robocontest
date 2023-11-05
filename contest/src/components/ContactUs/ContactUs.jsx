@@ -1,9 +1,7 @@
-import React from 'react'
-
+import React from "react";
+import styles from "Contact.module.css";
 function ContactUs() {
-  return (
-    <div>ContactUs</div>
-  )
+  return <div></div>;
 }
 
-export default ContactUs
+export default ContactUs;
